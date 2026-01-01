@@ -1,0 +1,4 @@
+# ninja log v7
+21	7908	7842287472725511	D:/SEM5/ANN/PROJECT/dino_local/DINO/models/dino/ops/build/temp.win-amd64-cpython-38/Release/SEM5/ANN/PROJECT/dino_local/DINO/models/dino/ops/src/cpu/ms_deform_attn_cpu.obj	6c18e1df16778d60
+36	18483	7842287472873441	D:/SEM5/ANN/PROJECT/dino_local/DINO/models/dino/ops/build/temp.win-amd64-cpython-38/Release/SEM5/ANN/PROJECT/dino_local/DINO/models/dino/ops/src/vision.obj	4f4c47a9d85cfb38
+28	28921	7842287472788550	D:/SEM5/ANN/PROJECT/dino_local/DINO/models/dino/ops/build/temp.win-amd64-cpython-38/Release/SEM5/ANN/PROJECT/dino_local/DINO/models/dino/ops/src/cuda/ms_deform_attn_cuda.obj	2c3a220dc9e694a5

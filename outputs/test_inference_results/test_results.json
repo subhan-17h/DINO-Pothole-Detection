@@ -1,0 +1,76 @@
+{
+  "timestamp": "2025-12-01T11:54:36.541448",
+  "config": {
+    "checkpoint": "outputs/pothole_finetune/checkpoint_best_regular.pth",
+    "config": "config/DINO/DINO_4scale.py",
+    "threshold": 0.3,
+    "device": "cuda"
+  },
+  "statistics": {
+    "total_images": 7,
+    "total_detections": 9,
+    "images_with_detections": 7,
+    "detection_rate": 100.0,
+    "mean_detections": 1.2857142857142858,
+    "max_detections": 2,
+    "min_detections": 1,
+    "mean_confidence": 0.7030800415409936,
+    "high_conf_detections": 6,
+    "threshold": 0.3,
+    "avg_time": 0.2354755401611328,
+    "total_time": 1.6483287811279297
+  },
+  "per_image_results": [
+    {
+      "image": "potholes46.png",
+      "detections": 2,
+      "scores": [
+        0.7917474508285522,
+        0.45528748631477356
+      ]
+    },
+    {
+      "image": "potholes544.png",
+      "detections": 1,
+      "scores": [
+        0.3688427209854126
+      ]
+    },
+    {
+      "image": "potholes548.png",
+      "detections": 1,
+      "scores": [
+        0.9684510827064514
+      ]
+    },
+    {
+      "image": "potholes585.png",
+      "detections": 1,
+      "scores": [
+        0.9663625955581665
+      ]
+    },
+    {
+      "image": "potholes593.png",
+      "detections": 1,
+      "scores": [
+        0.5624986290931702
+      ]
+    },
+    {
+      "image": "potholes596.png",
+      "detections": 1,
+      "scores": [
+        0.9442280530929565
+      ]
+    },
+    {
+      "image": "potholes622.png",
+      "detections": 2,
+      "scores": [
+        0.8403360247612,
+        0.4299663305282593
+      ]
+    }
+  ]
+}

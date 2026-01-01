@@ -1,0 +1,18 @@
+================================================================================
+DINO TRAINING SUMMARY - POTHOLES DETECTION
+================================================================================
+
+Training completed: 2025-11-08 13:26:20
+Total epochs: 8
+Total training time: 0:04:02
+
+BEST PERFORMANCE:
+Best mAP@0.5:0.95: 0.5319 (Epoch 9)
+Final mAP@0.5:0.95: 0.5319 (Epoch 9)
+
+FINAL METRICS:
+train_loss: 5.5491
+train_loss_ce: 0.0711
+train_loss_bbox: 0.1619
+train_loss_giou: 0.2377
+Final learning rate: 1.0000000000000002e-06
