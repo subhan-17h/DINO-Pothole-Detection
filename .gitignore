@@ -28,3 +28,4 @@ datasets/
 outputs/pothole_finetune
 outputs/test_inference_results/individual_predictions/
 others/
+venv/
